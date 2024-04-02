@@ -19,8 +19,6 @@ This repository will be used to store kaggle notebooks for future references
 
 
 
-https://www.kaggle.com/code/ryanholbrook/target-encoding
-
 #### **Data Preprocessing Techniques**
 
 <ul>
@@ -28,10 +26,6 @@ https://www.kaggle.com/code/ryanholbrook/target-encoding
     <a href="https://www.kaggle.com/code/ryanholbrook/target-encoding" target="_blank">https://www.kaggle.com/code/ryanholbrook/target-encoding</a>
   </li>
   
-  <li>
-    https://www.kaggle.com/code/karnikakapoor/customer-segmentation-clustering/notebook
-  </li>
-
   
 </ul>
 
