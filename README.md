@@ -1,31 +1,44 @@
-# kaggle-notebooks
-This repository will be used to store kaggle notebooks for future references
+
+# Technical Blog Collection
+
+A curated collection of insightful technical blogs organized by topic. Click on a topic to jump to the relevant section.
+
+---
+
+## Table of Contents
+
+1. [Difference-in-Differences](#difference-in-differences)  
+2. [Synthetic Controls](#synthetic-control)  
+3. [Propensity Scores](#propensity-scores)  
+4. [Instrumental Variables](#instrumental-variable)  
+5. [Regression](#linear-regression)  
+---
+
+## Difference-in-Differences
+- [Understanding Gradient Descent - Towards Data Science](https://towardsdatascience.com/understanding-gradient-descent)  
+- [Explaining XGBoost - Analytics Vidhya](https://analyticsvidhya.com/explaining-xgboost)  
+
+---
+
+## Synthetic Controls
+- [A Beginner's Guide to ETL - Medium](https://medium.com/beginners-guide-to-etl)  
+- [Optimizing Data Pipelines with Apache Airflow](https://airflow.apache.org/optimizing-data-pipelines)  
+
+---
+
+## Propensity Scores
+- [Propensity Score Matching Explained - Data Science Blog](https://datascienceblog/propensity-score-matching)  
+- [Causal Impact in Time Series Analysis](https://causalimpact.com/time-series)  
+
+---
+
+## Instrumental Variables
+*(Add relevant articles here)*
+
+---
+
+## Regression
+*(Add relevant articles here)*
 
 
-
-#### **Clustering & Recommendation Systems**
-
-<ul>
-  <li>
-    <a href="https://www.kaggle.com/code/farzadnekouei/customer-segmentation-recommendation-system/notebook" target="_blank">https://www.kaggle.com/code/farzadnekouei/customer-segmentation-recommendation-system/notebook</a>
-  </li>
-  
-  <li>
-    https://www.kaggle.com/code/karnikakapoor/customer-segmentation-clustering/notebook
-  </li>
-
-  
-</ul>
-
-
-
-#### **Data Preprocessing Techniques**
-
-<ul>
-  <li>
-    <a href="https://www.kaggle.com/code/ryanholbrook/target-encoding" target="_blank">https://www.kaggle.com/code/ryanholbrook/target-encoding</a>
-  </li>
-  
-  
-</ul>
 
