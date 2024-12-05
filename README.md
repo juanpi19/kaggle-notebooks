@@ -15,8 +15,8 @@ A curated collection of insightful technical blogs organized by topic. Click on 
 ---
 
 ## Difference-in-Differences
-- [Understanding Gradient Descent - Towards Data Science](https://towardsdatascience.com/understanding-gradient-descent)  
-- [Explaining XGBoost - Analytics Vidhya](https://analyticsvidhya.com/explaining-xgboost)  
+- [How to Accurately Test Significance with Difference in Difference models - Spotify](https://engineering.atspotify.com/2023/09/how-to-accurately-test-significance-with-difference-in-difference-models/)  
+
 
 ---
 
