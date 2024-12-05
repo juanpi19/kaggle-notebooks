@@ -11,7 +11,8 @@ A curated collection of insightful technical blogs organized by topic. Click on 
 2. [Synthetic Controls](#synthetic-control)  
 3. [Propensity Scores](#propensity-scores)  
 4. [Instrumental Variables](#instrumental-variable)  
-5. [Regression](#linear-regression)  
+5. [Regression](#linear-regression)
+6. [AB Testing](#ab-testing) 
 ---
 
 ## Difference-in-Differences
@@ -39,6 +40,10 @@ A curated collection of insightful technical blogs organized by topic. Click on 
 
 ## Regression
 *(Add relevant articles here)*
+
+---
+## AB Testing
+- add here 
 
 
 
