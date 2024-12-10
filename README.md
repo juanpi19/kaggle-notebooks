@@ -28,8 +28,7 @@ A curated collection of insightful technical blogs organized by topic. Click on 
 ---
 
 ## Propensity Scores
-- [Propensity Score Matching Explained - Data Science Blog](https://datascienceblog/propensity-score-matching)  
-- [Causal Impact in Time Series Analysis](https://causalimpact.com/time-series)  
+- [Using Propensity Score Matching to Uncover Shopify Capital’s Effect on Business Growth - Shopify](https://shopify.engineering/propensity-score-matching-shopify-capital)
 
 ---
 
