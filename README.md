@@ -44,7 +44,7 @@ A curated collection of insightful technical blogs organized by topic. Click on 
 ## Regression
 - [Building A Data Science Product in 10 Days - Instacart](https://tech.instacart.com/building-a-data-science-product-in-10-days-d2f4688567b0)
 - [How Instacart delivers on time (using quantile regression)- Instacart](https://tech.instacart.com/how-instacart-delivers-on-time-using-quantile-regression-2383e2e03edb)
-
+- [Delivery-Date Prediction - Wayfair](https://www.aboutwayfair.com/careers/tech-blog/delivery-date-prediction)
 
 ---
 ## AB Testing
