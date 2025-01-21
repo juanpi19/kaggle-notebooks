@@ -12,7 +12,8 @@ A curated collection of insightful technical blogs organized by topic. Click on 
 3. [Propensity Scores](#propensity-scores)  
 4. [Instrumental Variables](#instrumental-variable)  
 5. [Regression](#linear-regression)
-6. [AB Testing](#ab-testing) 
+6. [AB Testing](#ab-testing)
+7. [Simulations](#simulations) 
 ---
 
 ## Difference-in-Differences
@@ -54,6 +55,11 @@ A curated collection of insightful technical blogs organized by topic. Click on 
 - [Choosing a Sequential Testing Framework — Comparisons and Discussions - Spotify](https://engineering.atspotify.com/2023/03/choosing-sequential-testing-framework-comparisons-and-discussions/)
 - [Increasing experimentation accuracy and speed by using control variates - Etsy](https://www.etsy.com/il-en/codeascraft/increasing-experimentation-accuracy-and-speed-by-using-control-variates)
 - [Improving Duolingo, one experiment at a time - Duolingo](https://blog.duolingo.com/improving-duolingo-one-experiment-at-a-time/)
+
+---
+## Simulations
+
+- [A Case Study of Simulation Based Inference - Opendoor](https://medium.com/opendoor-labs/a-case-study-of-simulation-based-inference-dfd3f2c230c1)
 
   
 
